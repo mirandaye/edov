@@ -1,0 +1,455 @@
+cdn,dpetallc,dpetwhip,dpetblap,dpethisp,dpetindp,dpetasip,dpetpcip,dpettwop,dpetecop,dpetlepp,dpetspep,schoolyear,campuses,teadistricttype,teadescription,ncesdistricttype,locale,typology,districtname,firstyearofadoption,shortregion
+TAPR County District Number,TAPR District Student Membership: All Students Count,TAPR District Student Membership: White Percent,TAPR District Student Membership: Black Percent,TAPR District Student Membership: Hispanic Percent,TAPR District Student Membership: American Indian Percent,TAPR District Student Membership: Asian Percent,TAPR District Student Membership: Pacific Islander Percent,TAPR District Student Membership: Two or More Races Percent,TAPR District Student Membership: Economically Disadvantaged Percent,TAPR District Student Membership: Limited English Proficient Percent,TAPR District Student Membership: Special Education Percent,UH ERC Created Variable- e.g.2023-24 is 2024,UH ERC Created Variable indicating Campuses listed in TAPR (AskTed for 2025),TEA variable indicating Community Type,TEA variable describing Community Type,NCES variable indicating locale,NCES locale,UH ERC Created Variable for 4DDSW type,TEA District Name,UH ERC Created Variable indicating First Year of 4DSW Adoption,UH ERC Created Variable Grouping for locale
+1903,1196,78,4,13,0,0,0,4,58,4,13,2024,4,G,Non-metropolitan Stable,42,Rural: Distant,Full 4DSW,Elkhart ISD,2024,rural
+1903,,,,,,,,,,,,2025,5,G,Non-metropolitan Stable,42,Rural: Distant,Full 4DSW,Elkhart ISD,2024,rural
+1904,802,74,8,12,0,1,0,4,52,4,16,2024,3,H,Rural,42,Rural: Distant,Full 4DSW,Frankston ISD,2024,rural
+1904,,,,,,,,,,,,2025,3,H,Rural,42,Rural: Distant,Full 4DSW,Frankston ISD,2024,rural
+1909,332,87,0,10,0,1,0,2,39,2,17,2024,2,H,Rural,43,Rural: Remote,Full 4DSW,Slocum ISD,2024,rural
+1909,,,,,,,,,,,,2025,2,H,Rural,43,Rural: Remote,Full 4DSW,Slocum ISD,2024,rural
+7901,,,,,,,,,,,,2025,5,H,Rural,42,Rural: Distant,Full 4DSW,Charlotte ISD,2025,rural
+10902,,,,,,,,,,,,2025,4,G,Non-metropolitan Stable,42,Rural: Distant,Full 4DSW,Bandera ISD,2025,rural
+13905,793,28,1,70,0,1,0,1,72,3,12,2024,3,H,Rural,42,Rural: Distant,Full 4DSW,SKIDMORE-TYNAN ISD,2024,rural
+13905,,,,,,,,,,,,2025,3,H,Rural,42,Rural: Distant,Full 4DSW,SKIDMORE-TYNAN ISD,2024,rural
+14901,1798,58,7,28,0,1,1,6,40,6,15,2024,4,G,Non-metropolitan Stable,41,Rural: Fringe,Full 4DSW,Academy ISD,2024,rural
+14901,,,,,,,,,,,,2025,7,G,Non-metropolitan Stable,41,Rural: Fringe,Full 4DSW,Academy ISD,2024,rural
+19901,828,60,17,15,1,1,0,7,70,5,13,2023,3,H,Rural,42,Rural: Distant,Full 4DSW,Dekalb ISD,2023,rural
+19901,901,64,15,13,1,0,0,7,65,6,14,2024,3,H,Rural,42,Rural: Distant,Full 4DSW,Dekalb ISD,2023,rural
+19901,,,,,,,,,,,,2025,3,H,Rural,42,Rural: Distant,Full 4DSW,Dekalb ISD,2023,rural
+19905,1152,55,22,10,0,0,0,13,77,3,17,2023,3,G,Non-metropolitan Stable,32,Town: Distant,Full 4DSW,New Boston ISD,2023,town
+19905,1142,54,23,9,0,0,0,13,80,4,18,2024,3,G,Non-metropolitan Stable,32,Town: Distant,Full 4DSW,New Boston ISD,2023,town
+19905,,,,,,,,,,,,2025,4,G,Non-metropolitan Stable,32,Town: Distant,Full 4DSW,New Boston ISD,2023,town
+19910,220,86,3,6,1,0,0,4,47,0,13,2023,1,H,Rural,42,Rural: Distant,Full 4DSW,Malta ISD,2023,rural
+19910,202,85,2,7,1,0,0,5,52,0,12,2024,1,H,Rural,42,Rural: Distant,Full 4DSW,Malta ISD,2023,rural
+19910,,,,,,,,,,,,2025,1,H,Rural,42,Rural: Distant,Full 4DSW,Malta ISD,2023,rural
+23902,187,57,0,40,1,1,0,2,46,6,10,2022,1,H,Rural,43,Rural: Remote,Full 4DSW,Silverton ISD,2022,rural
+23902,213,58,0,40,1,1,0,1,49,6,10,2023,1,H,Rural,43,Rural: Remote,Full 4DSW,Silverton ISD,2022,rural
+23902,222,58,0,40,0,1,0,2,56,5,12,2024,1,H,Rural,43,Rural: Remote,Full 4DSW,Silverton ISD,2022,rural
+23902,,,,,,,,,,,,2025,1,H,Rural,43,Rural: Remote,Full 4DSW,Silverton ISD,2022,rural
+31914,915,1,0,99,0,0,0,0,88,21,14,2023,3,G,Non-metropolitan Stable,22,Suburb: Midsize,Hybrid/Modified,Santa Rosa ISD,2023,suburban
+31914,931,1,0,99,0,0,0,0,87,21,16,2024,3,G,Non-metropolitan Stable,22,Suburb: Midsize,Hybrid/Modified,Santa Rosa ISD,2023,suburban
+31914,,,,,,,,,,,,2025,4,G,Non-metropolitan Stable,22,Suburb: Midsize,Hybrid/Modified,Santa Rosa ISD,2023,suburban
+33901,149,92,0,7,0,0,0,1,34,1,22,2023,1,H,Rural,43,Rural: Remote,Hybrid/Modified,Groom ISD,2023,rural
+33901,135,90,0,8,0,0,0,2,31,1,18,2024,1,H,Rural,43,Rural: Remote,Hybrid/Modified,Groom ISD,2023,rural
+33901,,,,,,,,,,,,2025,1,H,Rural,43,Rural: Remote,Hybrid/Modified,Groom ISD,2023,rural
+34902,117,74,13,6,3,0,0,4,76,1,17,2024,1,H,Rural,42,Rural: Distant,Full 4DSW,Avinger ISD,2024,rural
+34902,,,,,,,,,,,,2025,1,H,Rural,42,Rural: Distant,Full 4DSW,Avinger ISD,2024,rural
+35901,1088,7,1,91,0,1,0,0,85,27,11,2024,3,D,Other Central City Suburban,33,Town: Remote,Full 4DSW,DIMMITT ISD,2024,town
+35901,,,,,,,,,,,,2025,3,D,Other Central City Suburban,33,Town: Remote,Full 4DSW,DIMMITT ISD,2024,town
+36901,,,,,,,,,,,,2025,4,G,Non-metropolitan Stable,42,Rural: Distant,Hybrid/Modified,Anahuac ISD,2025,rural
+37901,501,32,21,37,0,1,0,10,74,21,19,2024,3,H,Rural,42,Rural: Distant,Full 4DSW,Alto ISD,2024,rural
+37901,,,,,,,,,,,,2025,3,H,Rural,42,Rural: Distant,Full 4DSW,Alto ISD,2024,rural
+37907,2056,62,12,19,0,0,0,7,69,8,14,2024,5,G,Non-metropolitan Stable,41,Rural: Fringe,Full 4DSW,Rusk ISD,2024,rural
+37907,,,,,,,,,,,,2025,5,G,Non-metropolitan Stable,41,Rural: Fringe,Full 4DSW,Rusk ISD,2024,rural
+37908,515,12,2,86,0,0,0,0,81,51,10,2023,1,H,Rural,42,Rural: Distant,Full 4DSW,New Summerfield ISD,2023,rural
+37908,511,12,2,85,0,0,0,0,85,50,11,2024,1,H,Rural,42,Rural: Distant,Full 4DSW,New Summerfield ISD,2023,rural
+37908,,,,,,,,,,,,2025,1,H,Rural,42,Rural: Distant,Full 4DSW,New Summerfield ISD,2023,rural
+39903,461,81,2,12,2,0,0,5,46,1,15,2022,2,H,Rural,42,Rural: Distant,Hybrid/Modified,Petrolia CISD,2022,rural
+39903,468,81,1,10,2,0,0,6,64,1,17,2023,2,H,Rural,42,Rural: Distant,Hybrid/Modified,Petrolia CISD,2022,rural
+39903,476,78,1,13,2,0,0,6,59,0,18,2024,2,H,Rural,42,Rural: Distant,Hybrid/Modified,Petrolia CISD,2022,rural
+39903,,,,,,,,,,,,2025,2,H,Rural,42,Rural: Distant,Hybrid/Modified,Petrolia CISD,2022,rural
+40901,,,,,,,,,,,,2025,1,H,Rural,43,Rural: Remote,Full 4DSW,MORTON ISD,2025,rural
+42905,161,73,1,22,0,0,0,4,75,1,27,2024,1,H,Rural,43,Rural: Remote,Full 4DSW,PANTHER CREEK CISD,2024,rural
+42905,,,,,,,,,,,,2025,1,H,Rural,43,Rural: Remote,Full 4DSW,PANTHER CREEK CISD,2024,rural
+43902,5455,36,23,31,0,3,0,7,53,14,16,2024,9,F,Non-metropolitan Fast Growing,41,Rural: Fringe,Full 4DSW,Anna ISD,2024,rural
+43902,,,,,,,,,,,,2025,10,F,Non-metropolitan Fast Growing,41,Rural: Fringe,Full 4DSW,Anna ISD,2024,rural
+43904,1874,50,3,42,0,1,0,3,54,15,14,2021,4,F,Non-metropolitan Fast Growing,31,Town: Fringe,Full 4DSW,Farmersville ISD,2021,town
+43904,2018,48,5,43,0,1,0,4,53,15,14,2022,4,F,Non-metropolitan Fast Growing,31,Town: Fringe,Full 4DSW,Farmersville ISD,2021,town
+43904,2109,48,5,43,0,1,0,4,59,15,14,2023,4,F,Non-metropolitan Fast Growing,31,Town: Fringe,Full 4DSW,Farmersville ISD,2021,town
+43904,2234,47,4,44,0,1,0,4,60,17,15,2024,4,F,Non-metropolitan Fast Growing,31,Town: Fringe,Full 4DSW,Farmersville ISD,2021,town
+43904,,,,,,,,,,,,2025,5,F,Non-metropolitan Fast Growing,31,Town: Fringe,Full 4DSW,Farmersville ISD,2021,town
+43918,4620,38,17,39,1,2,0,3,56,24,14,2024,7,D,Other Central City Suburban,41,Rural: Fringe,Full 4DSW,Community ISD,2024,rural
+43918,,,,,,,,,,,,2025,9,D,Other Central City Suburban,41,Rural: Fringe,Full 4DSW,Community ISD,2024,rural
+48901,221,34,0,64,0,1,0,1,68,9,23,2024,3,H,Rural,43,Rural: Remote,Full 4DSW,Eden CISD,2024,rural
+48901,,,,,,,,,,,,2025,4,H,Rural,43,Rural: Remote,Full 4DSW,Eden CISD,2024,rural
+49901,3077,27,4,62,1,1,0,6,72,33,13,2024,5,E,Independent Town,41,Rural: Fringe,Full 4DSW,Gainesville ISD,2024,rural
+49901,,,,,,,,,,,,2025,5,E,Independent Town,41,Rural: Fringe,Full 4DSW,Gainesville ISD,2024,rural
+50901,203,51,3,42,0,0,0,4,66,15,11,2023,2,H,Rural,43,Rural: Remote,Full 4DSW,Evant ISD,2023,rural
+50901,204,57,3,35,0,0,0,4,62,13,17,2024,2,H,Rural,43,Rural: Remote,Full 4DSW,Evant ISD,2023,rural
+50901,,,,,,,,,,,,2025,2,H,Rural,43,Rural: Remote,Full 4DSW,Evant ISD,2023,rural
+51901,157,42,12,44,1,0,0,2,71,0,20,2023,1,H,Rural,43,Rural: Remote,Full 4DSW,Paducah ISD,2023,rural
+51901,158,42,11,44,1,0,0,2,73,0,25,2024,1,H,Rural,43,Rural: Remote,Full 4DSW,Paducah ISD,2023,rural
+51901,,,,,,,,,,,,2025,1,H,Rural,43,Rural: Remote,Full 4DSW,Paducah ISD,2023,rural
+52901,1211,11,2,86,0,1,0,1,75,28,8,2024,3,D,Other Central City Suburban,32,Town: Distant,Full 4DSW,CRANE ISD,2024,town
+52901,,,,,,,,,,,,2025,3,D,Other Central City Suburban,32,Town: Distant,Full 4DSW,CRANE ISD,2024,town
+56902,215,54,0,44,1,0,0,2,67,18,12,2024,1,H,Rural,43,Rural: Remote,Full 4DSW,TEXLINE ISD,2024,rural
+56902,,,,,,,,,,,,2025,1,H,Rural,43,Rural: Remote,Full 4DSW,TEXLINE ISD,2024,rural
+61908,,,,,,,,,,,,2025,8,G,Non-metropolitan Stable,41,Rural: Fringe,Hybrid/Modified,Sanger ISD,2025,rural
+63903,,,,,,,,,,,,2025,1,H,Rural,43,Rural: Remote,Full 4DSW,SPUR ISD,2025,rural
+63906,76,58,3,38,0,0,0,1,75,0,16,2024,1,H,Rural,43,Rural: Remote,Hybrid/Modified,Patton Springs ISD,2024,rural
+63906,,,,,,,,,,,,2025,1,H,Rural,43,Rural: Remote,Hybrid/Modified,Patton Springs ISD,2024,rural
+67904,253,55,0,40,0,0,2,2,72,8,17,2023,3,H,Rural,43,Rural: Remote,Full 4DSW,Gorman ISD,2023,rural
+67904,247,57,0,40,0,0,1,1,76,6,23,2024,3,H,Rural,43,Rural: Remote,Full 4DSW,Gorman ISD,2023,rural
+67904,,,,,,,,,,,,2025,3,H,Rural,43,Rural: Remote,Full 4DSW,Gorman ISD,2023,rural
+70907,627,52,10,34,1,0,0,3,68,11,22,2024,2,H,Rural,42,Rural: Distant,Full 4DSW,ITALY ISD,2024,rural
+70907,,,,,,,,,,,,2025,3,H,Rural,42,Rural: Distant,Full 4DSW,ITALY ISD,2024,rural
+70909,261,31,20,42,0,0,0,7,71,22,15,2024,1,H,Rural,42,Rural: Distant,Full 4DSW,MILFORD ISD,2024,rural
+70909,,,,,,,,,,,,2025,2,H,Rural,42,Rural: Distant,Full 4DSW,MILFORD ISD,2024,rural
+70910,1331,48,1,47,0,1,0,2,55,16,22,2024,3,D,Other Central City Suburban,41,Rural: Fringe,Full 4DSW,PALMER ISD,2024,rural
+70910,,,,,,,,,,,,2025,4,D,Other Central City Suburban,41,Rural: Fringe,Full 4DSW,PALMER ISD,2024,rural
+71904,3009,1,0,99,0,0,0,0,93,63,16,2024,6,B,Major Suburban,21,Suburb: Large,Full 4DSW,San Elizario ISD,2024,suburban
+71904,,,,,,,,,,,,2025,7,B,Major Suburban,21,Suburb: Large,Full 4DSW,San Elizario ISD,2024,suburban
+72901,205,49,0,47,0,0,0,4,64,14,10,2024,2,H,Rural,42,Rural: Distant,Full 4DSW,Three way ISD,2024,rural
+72901,,,,,,,,,,,,2025,2,H,Rural,42,Rural: Distant,Full 4DSW,Three way ISD,2024,rural
+72908,328,78,0,18,0,0,0,3,19,2,9,2024,1,F,Non-metropolitan Fast Growing,42,Rural: Distant,Full 4DSW,Huckabay ISD,2024,rural
+72908,,,,,,,,,,,,2025,2,F,Non-metropolitan Fast Growing,42,Rural: Distant,Full 4DSW,Huckabay ISD,2024,rural
+72910,111,79,0,17,0,0,0,4,49,0,10,2020,1,H,Rural,43,Rural: Remote,Full 4DSW,MORGAN MILL ISD,2020,rural
+72910,129,83,0,11,0,1,0,5,29,0,7,2021,1,H,Rural,43,Rural: Remote,Full 4DSW,MORGAN MILL ISD,2020,rural
+72910,118,83,0,11,0,1,0,5,51,0,5,2022,1,H,Rural,43,Rural: Remote,Full 4DSW,MORGAN MILL ISD,2020,rural
+72910,116,82,0,11,0,0,0,7,50,0,6,2023,1,H,Rural,43,Rural: Remote,Full 4DSW,MORGAN MILL ISD,2020,rural
+72910,122,74,1,20,0,1,0,5,41,7,16,2024,1,H,Rural,43,Rural: Remote,Full 4DSW,MORGAN MILL ISD,2020,rural
+72910,,,,,,,,,,,,2025,1,H,Rural,43,Rural: Remote,Full 4DSW,MORGAN MILL ISD,2020,rural
+73903,903,5,52,38,0,1,0,3,98,18,12,2024,3,G,Non-metropolitan Stable,32,Town: Distant,Hybrid/Modified,Marlin ISD,2024,town
+73903,,,,,,,,,,,,2025,3,G,Non-metropolitan Stable,32,Town: Distant,Hybrid/Modified,Marlin ISD,2024,town
+74905,251,81,2,14,1,0,0,3,57,4,24,2024,2,H,Rural,41,Rural: Fringe,Full 4DSW,Ector ISD,2024,rural
+74905,,,,,,,,,,,,2025,2,H,Rural,41,Rural: Fringe,Full 4DSW,Ector ISD,2024,rural
+77902,454,17,1,81,0,0,0,0,81,5,9,2021,3,H,Rural,43,Rural: Remote,Full 4DSW,Lockney ISD,2021,rural
+77902,430,16,2,82,0,0,0,0,81,6,10,2022,4,H,Rural,43,Rural: Remote,Full 4DSW,Lockney ISD,2021,rural
+77902,405,16,3,81,0,0,0,0,79,5,11,2023,4,H,Rural,43,Rural: Remote,Full 4DSW,Lockney ISD,2021,rural
+77902,404,16,2,81,0,0,0,0,78,5,10,2024,4,H,Rural,43,Rural: Remote,Full 4DSW,Lockney ISD,2021,rural
+77902,,,,,,,,,,,,2025,4,H,Rural,43,Rural: Remote,Full 4DSW,Lockney ISD,2021,rural
+80901,1558,63,4,27,0,1,0,5,64,15,15,2024,3,G,Non-metropolitan Stable,33,Town: Remote,Full 4DSW,MOUNT VERNON ISD,2024,town
+80901,,,,,,,,,,,,2025,3,G,Non-metropolitan Stable,33,Town: Remote,Full 4DSW,MOUNT VERNON ISD,2024,town
+81906,181,77,3,16,0,1,1,3,59,4,10,2024,1,H,Rural,42,Rural: Distant,Full 4DSW,Dew ISD,2024,rural
+81906,,,,,,,,,,,,2025,1,H,Rural,42,Rural: Distant,Full 4DSW,Dew ISD,2024,rural
+82903,,,,,,,,,,,,2025,5,G,Non-metropolitan Stable,33,Town: Remote,Full 4DSW,PEARSALL ISD,2025,town
+83902,143,74,0,25,0,0,0,1,58,10,8,2024,1,H,Rural,43,Rural: Remote,Hybrid/Modified,Loop ISD,2024,rural
+83902,,,,,,,,,,,,2025,1,H,Rural,43,Rural: Remote,Hybrid/Modified,Loop ISD,2024,rural
+84903,159,82,0,10,0,3,1,4,60,0,13,2024,1,H,Rural,43,Rural: Remote,Hybrid/Modified,HIGH ISLAND ISD,2024,rural
+84903,,,,,,,,,,,,2025,1,H,Rural,43,Rural: Remote,Hybrid/Modified,HIGH ISLAND ISD,2024,rural
+85902,738,28,5,62,0,0,0,5,69,9,15,2023,3,H,Rural,32,Town: Distant,Full 4DSW,Post ISD,2023,town
+85902,705,27,4,63,0,0,0,5,68,10,16,2024,3,H,Rural,32,Town: Distant,Full 4DSW,Post ISD,2023,town
+85902,,,,,,,,,,,,2025,3,H,Rural,32,Town: Distant,Full 4DSW,Post ISD,2023,town
+90903,189,74,1,20,0,0,0,6,70,2,21,2024,1,H,Rural,43,Rural: Remote,Full 4DSW,MCLEAN ISD,2024,rural
+90903,,,,,,,,,,,,2025,1,H,Rural,43,Rural: Remote,Full 4DSW,MCLEAN ISD,2024,rural
+91907,718,75,0,21,0,0,0,3,30,7,14,2023,1,H,Rural,42,Rural: Distant,Hybrid/Modified,Tioga ISD,2023,rural
+91907,688,75,0,21,0,0,0,3,32,8,17,2024,1,H,Rural,42,Rural: Distant,Hybrid/Modified,Tioga ISD,2023,rural
+91907,,,,,,,,,,,,2025,1,H,Rural,42,Rural: Distant,Hybrid/Modified,Tioga ISD,2023,rural
+91914,,,,,,,,,,,,2025,3,D,Other Central City Suburban,41,Rural: Fringe,Full 4DSW,S AND S CISD,2025,rural
+92901,,,,,,,,,,,,2025,4,D,Other Central City Suburban,23,Suburb: Small,Full 4DSW,Gladewater ISD,2025,suburban
+95901,,,,,,,,,,,,2025,4,H,Rural,31,Town: Fringe,Hybrid/Modified,Abernathy ISD,2025,town
+96904,,,,,,,,,,,,2025,4,H,Rural,43,Rural: Remote,Full 4DSW,MEMPHIS ISD,2025,rural
+99903,468,53,6,36,0,0,0,5,75,3,23,2024,3,H,Rural,43,Rural: Remote,Full 4DSW,QUANAH ISD,2024,rural
+99903,,,,,,,,,,,,2025,3,H,Rural,43,Rural: Remote,Full 4DSW,QUANAH ISD,2024,rural
+100907,4184,83,1,12,1,1,0,3,39,3,14,2024,6,D,Other Central City Suburban,22,Suburb: Midsize,Hybrid/Modified,Lumberton ISD,2024,suburban
+100907,,,,,,,,,,,,2025,6,D,Other Central City Suburban,22,Suburb: Midsize,Hybrid/Modified,Lumberton ISD,2024,suburban
+100908,540,90,0,7,0,0,0,2,69,1,23,2024,2,H,Rural,42,Rural: Distant,Full 4DSW,WEST HARDIN COUNTY CISD,2024,rural
+100908,,,,,,,,,,,,2025,3,H,Rural,42,Rural: Distant,Full 4DSW,WEST HARDIN COUNTY CISD,2024,rural
+101906,6854,31,13,52,0,0,0,4,63,21,14,2024,9,B,Major Suburban,41,Rural: Fringe,Hybrid/Modified,Crosby ISD,2024,rural
+101906,,,,,,,,,,,,2025,10,B,Major Suburban,41,Rural: Fringe,Hybrid/Modified,Crosby ISD,2024,rural
+103901,161,50,1,48,0,0,0,2,70,14,11,2023,1,H,Rural,43,Rural: Remote,Full 4DSW,Channing ISD,2023,rural
+103901,128,40,1,57,0,0,0,2,70,14,10,2024,1,H,Rural,43,Rural: Remote,Full 4DSW,Channing ISD,2023,rural
+103901,,,,,,,,,,,,2025,1,H,Rural,43,Rural: Remote,Full 4DSW,Channing ISD,2023,rural
+104903,143,52,1,44,1,0,0,1,81,7,15,2022,1,H,Rural,42,Rural: Distant,Full 4DSW,Rule ISD,2022,rural
+104903,133,55,1,41,2,0,0,2,83,6,14,2023,1,H,Rural,42,Rural: Distant,Full 4DSW,Rule ISD,2022,rural
+104903,130,52,1,44,2,0,0,2,73,9,16,2024,1,H,Rural,42,Rural: Distant,Full 4DSW,Rule ISD,2022,rural
+104903,,,,,,,,,,,,2025,1,H,Rural,42,Rural: Distant,Full 4DSW,Rule ISD,2022,rural
+107901,3128,33,12,49,0,1,0,5,78,26,13,2020,5,E,Independent Town,32,Town: Distant,Full 4DSW,Athens ISD,2020,town
+107901,2974,34,12,48,0,1,0,4,80,26,14,2021,5,E,Independent Town,32,Town: Distant,Full 4DSW,Athens ISD,2020,town
+107901,2955,32,12,50,0,1,0,5,79,26,15,2022,5,E,Independent Town,32,Town: Distant,Full 4DSW,Athens ISD,2020,town
+107901,3091,31,13,50,0,1,0,5,79,25,16,2023,5,E,Independent Town,32,Town: Distant,Full 4DSW,Athens ISD,2020,town
+107901,2997,30,13,51,0,1,0,5,81,25,19,2024,5,E,Independent Town,32,Town: Distant,Full 4DSW,Athens ISD,2020,town
+107901,,,,,,,,,,,,2025,5,E,Independent Town,32,Town: Distant,Full 4DSW,Athens ISD,2020,town
+109904,,,,,,,,,,,,2025,5,E,Independent Town,41,Rural: Fringe,Full 4DSW,Hillsboro ISD,2025,rural
+112907,321,80,0,16,0,0,0,3,44,5,14,2024,1,H,Rural,43,Rural: Remote,Full 4DSW,MILLER GROVE ISD,2024,rural
+112907,,,,,,,,,,,,2025,1,H,Rural,43,Rural: Remote,Full 4DSW,MILLER GROVE ISD,2024,rural
+112910,225,78,1,18,0,0,0,2,56,5,12,2023,1,H,Rural,43,Rural: Remote,Full 4DSW,Sulphur Bluff ISD,2023,rural
+112910,228,82,1,15,0,0,0,2,60,5,13,2024,1,H,Rural,43,Rural: Remote,Full 4DSW,Sulphur Bluff ISD,2023,rural
+112910,,,,,,,,,,,,2025,1,H,Rural,43,Rural: Remote,Full 4DSW,Sulphur Bluff ISD,2023,rural
+113901,1182,18,44,33,0,0,0,4,81,20,17,2024,4,G,Non-metropolitan Stable,33,Town: Remote,Hybrid/Modified,Crockett ISD,2024,town
+113901,,,,,,,,,,,,2025,4,G,Non-metropolitan Stable,33,Town: Remote,Hybrid/Modified,Crockett ISD,2024,town
+113902,597,64,22,9,0,1,0,4,60,1,17,2024,3,F,Non-metropolitan Fast Growing,43,Rural: Remote,Full 4DSW,Grapeland ISD,2024,rural
+113902,,,,,,,,,,,,2025,3,F,Non-metropolitan Fast Growing,43,Rural: Remote,Full 4DSW,Grapeland ISD,2024,rural
+113905,464,84,1,12,0,1,0,2,47,2,13,2021,2,H,Rural,42,Rural: Distant,Full 4DSW,Latexo ISD,2021,rural
+113905,488,79,1,16,0,2,0,2,48,5,13,2022,2,H,Rural,42,Rural: Distant,Full 4DSW,Latexo ISD,2021,rural
+113905,496,74,1,21,0,2,0,2,57,6,13,2023,2,H,Rural,42,Rural: Distant,Full 4DSW,Latexo ISD,2021,rural
+113905,496,71,1,23,0,1,0,3,56,7,13,2024,2,H,Rural,42,Rural: Distant,Full 4DSW,Latexo ISD,2021,rural
+113905,,,,,,,,,,,,2025,2,H,Rural,42,Rural: Distant,Full 4DSW,Latexo ISD,2021,rural
+113906,267,73,14,6,0,0,0,6,70,0,18,2024,1,H,Rural,43,Rural: Remote,Full 4DSW,Kennard ISD,2024,rural
+113906,,,,,,,,,,,,2025,1,H,Rural,43,Rural: Remote,Full 4DSW,Kennard ISD,2024,rural
+114902,1095,52,0,46,0,0,0,1,38,3,15,2024,3,G,Non-metropolitan Stable,42,Rural: Distant,Hybrid/Modified,COAHOMA ISD,2024,rural
+114902,,,,,,,,,,,,2025,3,G,Non-metropolitan Stable,42,Rural: Distant,Hybrid/Modified,COAHOMA ISD,2024,rural
+115902,98,12,0,85,0,0,0,3,77,9,19,2024,1,H,Rural,43,Rural: Remote,Hybrid/Modified,SIERRA BLANCA ISD,2024,rural
+115902,,,,,,,,,,,,2025,1,H,Rural,43,Rural: Remote,Hybrid/Modified,SIERRA BLANCA ISD,2024,rural
+116906,1082,79,2,15,1,1,0,3,45,4,16,2023,3,D,Other Central City Suburban,42,Rural: Distant,Full 4DSW,Lone Oak ISD,2023,rural
+116906,1145,74,2,18,1,0,0,5,51,5,16,2024,3,D,Other Central City Suburban,42,Rural: Distant,Full 4DSW,Lone Oak ISD,2023,rural
+116906,,,,,,,,,,,,2025,4,D,Other Central City Suburban,42,Rural: Distant,Full 4DSW,Lone Oak ISD,2023,rural
+116908,2575,59,1,36,1,0,0,3,74,17,15,2022,4,D,Other Central City Suburban,41,Rural: Fringe,Full 4DSW,Quinlan ISD,2022,rural
+116908,2781,56,1,39,1,0,0,4,76,20,16,2023,4,D,Other Central City Suburban,41,Rural: Fringe,Full 4DSW,Quinlan ISD,2022,rural
+116908,2885,54,1,42,1,0,0,3,76,22,17,2024,4,D,Other Central City Suburban,41,Rural: Fringe,Full 4DSW,Quinlan ISD,2022,rural
+116908,,,,,,,,,,,,2025,4,D,Other Central City Suburban,41,Rural: Fringe,Full 4DSW,Quinlan ISD,2022,rural
+116916,529,73,3,19,1,1,0,3,100,6,15,2022,3,H,Rural,41,Rural: Fringe,Full 4DSW,Boles ISD,2022,rural
+116916,547,73,3,20,1,1,0,3,60,6,16,2023,3,H,Rural,41,Rural: Fringe,Full 4DSW,Boles ISD,2022,rural
+116916,552,71,3,21,1,1,0,3,54,7,17,2024,3,H,Rural,41,Rural: Fringe,Full 4DSW,Boles ISD,2022,rural
+116916,,,,,,,,,,,,2025,3,H,Rural,41,Rural: Fringe,Full 4DSW,Boles ISD,2022,rural
+117907,92,76,0,17,0,1,0,5,35,1,4,2019,1,H,Rural,42,Rural: Distant,Full 4DSW,Spring Creek ISD,2019,rural
+117907,105,72,0,20,0,2,0,6,41,1,8,2020,1,H,Rural,42,Rural: Distant,Full 4DSW,Spring Creek ISD,2019,rural
+117907,106,68,0,29,0,0,0,3,43,6,15,2021,1,H,Rural,42,Rural: Distant,Full 4DSW,Spring Creek ISD,2019,rural
+117907,96,57,3,33,0,0,0,6,44,6,14,2022,1,H,Rural,42,Rural: Distant,Full 4DSW,Spring Creek ISD,2019,rural
+117907,92,66,2,28,0,0,0,3,39,7,15,2023,1,H,Rural,42,Rural: Distant,Full 4DSW,Spring Creek ISD,2019,rural
+117907,83,69,1,27,0,0,0,4,43,5,18,2024,1,H,Rural,42,Rural: Distant,Full 4DSW,Spring Creek ISD,2019,rural
+117907,,,,,,,,,,,,2025,,H,Rural,42,Rural: Distant,Full 4DSW,Spring Creek ISD,2019,rural
+119901,,,,,,,,,,,,2025,1,H,Rural,43,Rural: Remote,Full 4DSW,BRYSON ISD,2025,rural
+119903,319,78,0,19,0,0,0,3,51,3,14,2023,2,H,Rural,43,Rural: Remote,Full 4DSW,Perrin-Whitt CISD,2023,rural
+119903,322,75,0,21,0,0,0,4,56,4,16,2024,1,H,Rural,43,Rural: Remote,Full 4DSW,Perrin-Whitt CISD,2023,rural
+119903,,,,,,,,,,,,2025,1,H,Rural,43,Rural: Remote,Full 4DSW,Perrin-Whitt CISD,2023,rural
+126905,,,,,,,,,,,,2025,11,D,Other Central City Suburban,41,Rural: Fringe,Full 4DSW,Joshua ISD,2025,rural
+126907,944,77,1,18,0,0,0,4,58,4,12,2023,3,F,Non-metropolitan Fast Growing,42,Rural: Distant,Full 4DSW,Rio Vista ISD,2023,rural
+126907,964,75,0,20,1,0,0,4,58,5,13,2024,3,F,Non-metropolitan Fast Growing,42,Rural: Distant,Full 4DSW,Rio Vista ISD,2023,rural
+126907,,,,,,,,,,,,2025,4,F,Non-metropolitan Fast Growing,42,Rural: Distant,Full 4DSW,Rio Vista ISD,2023,rural
+126908,2306,26,6,65,1,1,0,3,72,31,11,2024,4,D,Other Central City Suburban,31,Town: Fringe,Full 4DSW,Venus ISD,2024,town
+126908,,,,,,,,,,,,2025,5,D,Other Central City Suburban,31,Town: Fringe,Full 4DSW,Venus ISD,2024,town
+128903,194,10,1,88,0,0,0,1,84,1,16,2024,3,H,Rural,42,Rural: Distant,Full 4DSW,RUNGE ISD,2024,rural
+128903,,,,,,,,,,,,2025,3,H,Rural,42,Rural: Distant,Full 4DSW,RUNGE ISD,2024,rural
+129906,5249,19,19,56,0,0,0,5,80,29,13,2024,9,D,Other Central City Suburban,32,Town: Distant,Full 4DSW,Terrell ISD,2024,town
+129906,,,,,,,,,,,,2025,9,D,Other Central City Suburban,32,Town: Distant,Full 4DSW,Terrell ISD,2024,town
+137901,,,,,,,,,,,,2025,5,E,Independent Town,32,Town: Distant,Full 4DSW,Kingsville ISD,2025,town
+138904,104,55,1,40,0,1,0,3,70,2,13,2024,1,H,Rural,43,Rural: Remote,Full 4DSW,Benjamin ISD,2024,rural
+138904,,,,,,,,,,,,2025,1,H,Rural,43,Rural: Remote,Full 4DSW,Benjamin ISD,2024,rural
+139905,,,,,,,,,,,,2025,3,G,Non-metropolitan Stable,41,Rural: Fringe,Full 4DSW,CHISUM ISD,2025,rural
+139909,,,,,,,,,,,,2025,8,E,Independent Town,33,Town: Remote,Full 4DSW,Paris ISD,2025,town
+139911,,,,,,,,,,,,2025,5,G,Non-metropolitan Stable,41,Rural: Fringe,Full 4DSW,North Lamar ISD,2025,rural
+140907,309,28,0,72,0,0,0,0,75,22,12,2023,2,H,Rural,43,Rural: Remote,Full 4DSW,Springlake-Earth ISD,2023,rural
+140907,264,27,0,72,0,0,0,0,76,24,16,2024,3,H,Rural,43,Rural: Remote,Full 4DSW,Springlake-Earth ISD,2023,rural
+140907,,,,,,,,,,,,2025,2,H,Rural,43,Rural: Remote,Full 4DSW,Springlake-Earth ISD,2023,rural
+141902,319,44,3,49,1,1,0,1,78,15,18,2024,1,H,Rural,43,Rural: Remote,Full 4DSW,Lometa ISD,2024,rural
+141902,,,,,,,,,,,,2025,1,H,Rural,43,Rural: Remote,Full 4DSW,Lometa ISD,2024,rural
+143906,129,73,2,16,0,1,0,9,51,0,11,2024,1,H,Rural,43,Rural: Remote,Full 4DSW,Ezzell ISD,2024,rural
+143906,,,,,,,,,,,,2025,1,H,Rural,43,Rural: Remote,Full 4DSW,Ezzell ISD,2024,rural
+145902,668,77,7,12,0,1,0,3,49,3,14,2024,2,H,Rural,43,Rural: Remote,Full 4DSW,CENTERVILLE ISD,2024,rural
+145902,,,,,,,,,,,,2025,2,H,Rural,43,Rural: Remote,Full 4DSW,CENTERVILLE ISD,2024,rural
+145907,192,65,18,12,0,0,0,6,95,2,13,2021,2,H,Rural,43,Rural: Remote,Full 4DSW,Oakwood ISD,2021,rural
+145907,233,59,23,11,0,0,0,7,88,2,10,2022,2,H,Rural,43,Rural: Remote,Full 4DSW,Oakwood ISD,2021,rural
+145907,230,58,23,11,0,0,0,8,88,2,13,2023,2,H,Rural,43,Rural: Remote,Full 4DSW,Oakwood ISD,2021,rural
+145907,221,57,23,12,0,0,0,9,86,4,13,2024,2,H,Rural,43,Rural: Remote,Full 4DSW,Oakwood ISD,2021,rural
+145907,,,,,,,,,,,,2025,2,H,Rural,43,Rural: Remote,Full 4DSW,Oakwood ISD,2021,rural
+146903,198,66,6,26,0,0,1,2,38,12,8,2020,2,H,Rural,42,Rural: Distant,Full 4DSW,Devers ISD,2020,rural
+146903,205,67,6,25,0,0,0,2,38,13,10,2021,2,H,Rural,42,Rural: Distant,Full 4DSW,Devers ISD,2020,rural
+146903,216,67,5,26,0,0,0,2,29,10,9,2022,2,H,Rural,42,Rural: Distant,Full 4DSW,Devers ISD,2020,rural
+146903,203,65,5,26,0,0,0,3,35,8,11,2023,2,H,Rural,42,Rural: Distant,Full 4DSW,Devers ISD,2020,rural
+146903,185,66,5,26,0,1,0,2,32,8,16,2024,2,H,Rural,42,Rural: Distant,Full 4DSW,Devers ISD,2020,rural
+146903,,,,,,,,,,,,2025,3,H,Rural,42,Rural: Distant,Full 4DSW,Devers ISD,2020,rural
+146904,1316,75,3,18,1,0,0,4,62,4,12,2023,3,G,Non-metropolitan Stable,42,Rural: Distant,Full 4DSW,Hardin ISD,2023,rural
+146904,1236,72,3,21,1,0,0,3,63,5,13,2024,3,G,Non-metropolitan Stable,42,Rural: Distant,Full 4DSW,Hardin ISD,2023,rural
+146904,,,,,,,,,,,,2025,3,G,Non-metropolitan Stable,42,Rural: Distant,Full 4DSW,Hardin ISD,2023,rural
+146905,430,76,11,7,1,0,0,5,74,2,20,2023,3,H,Rural,42,Rural: Distant,Full 4DSW,Hull-Daisetta ISD,2023,rural
+146905,415,74,12,9,1,0,0,5,66,2,21,2024,3,H,Rural,42,Rural: Distant,Full 4DSW,Hull-Daisetta ISD,2023,rural
+146905,,,,,,,,,,,,2025,3,H,Rural,42,Rural: Distant,Full 4DSW,Hull-Daisetta ISD,2023,rural
+146907,1924,76,1,19,0,0,0,4,60,6,17,2024,4,D,Other Central City Suburban,42,Rural: Distant,Hybrid/Modified,Tarkington ISD,2024,rural
+146907,,,,,,,,,,,,2025,4,D,Other Central City Suburban,42,Rural: Distant,Hybrid/Modified,Tarkington ISD,2024,rural
+148902,183,65,0,31,2,0,0,2,55,10,18,2023,1,H,Rural,43,Rural: Remote,Hybrid/Modified,Follett ISD,2023,rural
+148902,172,63,0,31,2,0,0,4,48,11,21,2024,1,H,Rural,43,Rural: Remote,Hybrid/Modified,Follett ISD,2023,rural
+148902,,,,,,,,,,,,2025,1,H,Rural,43,Rural: Remote,Hybrid/Modified,Follett ISD,2023,rural
+152903,1242,29,5,64,0,0,0,2,72,6,20,2024,5,D,Other Central City Suburban,31,Town: Fringe,Full 4DSW,Slaton ISD,2024,town
+152903,,,,,,,,,,,,2025,6,D,Other Central City Suburban,31,Town: Fringe,Full 4DSW,Slaton ISD,2024,town
+153903,270,34,0,65,0,0,0,0,71,6,16,2024,1,H,Rural,43,Rural: Remote,Hybrid/Modified,O'DONNELL ISD,2024,rural
+153903,,,,,,,,,,,,2025,1,H,Rural,43,Rural: Remote,Hybrid/Modified,O'DONNELL ISD,2024,rural
+153904,578,37,2,59,0,0,0,2,60,3,18,2024,3,H,Rural,32,Town: Distant,Hybrid/Modified,TAHOKA ISD,2024,town
+153904,,,,,,,,,,,,2025,3,H,Rural,32,Town: Distant,Hybrid/Modified,TAHOKA ISD,2024,town
+153907,134,28,5,64,0,0,0,2,83,8,16,2024,1,H,Rural,42,Rural: Distant,Full 4DSW,WILSON ISD,2024,rural
+153907,,,,,,,,,,,,2025,1,H,Rural,42,Rural: Distant,Full 4DSW,WILSON ISD,2024,rural
+160904,195,72,2,24,0,1,0,2,60,0,11,2021,1,H,Rural,42,Rural: Distant,Full 4DSW,Rochelle ISD,2021,rural
+160904,194,68,1,27,0,1,1,3,61,0,11,2022,1,H,Rural,42,Rural: Distant,Full 4DSW,Rochelle ISD,2021,rural
+160904,210,69,1,27,1,0,0,2,55,0,12,2023,1,H,Rural,42,Rural: Distant,Full 4DSW,Rochelle ISD,2021,rural
+160904,160,66,1,32,0,0,0,1,57,0,14,2024,1,H,Rural,42,Rural: Distant,Full 4DSW,Rochelle ISD,2021,rural
+160904,,,,,,,,,,,,2025,1,H,Rural,42,Rural: Distant,Full 4DSW,Rochelle ISD,2021,rural
+161920,3035,64,6,24,0,2,0,4,36,3,13,2024,7,D,Other Central City Suburban,41,Rural: Fringe,Full 4DSW,China Spring ISD,2024,rural
+161920,,,,,,,,,,,,2025,7,D,Other Central City Suburban,41,Rural: Fringe,Full 4DSW,China Spring ISD,2024,rural
+161921,2288,20,37,38,0,0,0,5,84,13,13,2024,6,D,Other Central City Suburban,22,Suburb: Midsize,Hybrid/Modified,Connally ISD,2024,suburban
+161921,,,,,,,,,,,,2025,6,D,Other Central City Suburban,22,Suburb: Midsize,Hybrid/Modified,Connally ISD,2024,suburban
+163902,273,54,0,45,0,0,0,0,35,0,13,2024,1,H,Rural,42,Rural: Distant,Hybrid/Modified,D'Hanis ISD,2024,rural
+163902,,,,,,,,,,,,2025,1,H,Rural,42,Rural: Distant,Hybrid/Modified,D'Hanis ISD,2024,rural
+163903,1265,14,0,85,0,0,0,1,71,13,17,2024,5,G,Non-metropolitan Stable,41,Rural: Fringe,Full 4DSW,Natalia ISD,2024,rural
+163903,,,,,,,,,,,,2025,5,G,Non-metropolitan Stable,41,Rural: Fringe,Full 4DSW,Natalia ISD,2024,rural
+165902,,,,,,,,,,,,2025,4,D,Other Central City Suburban,42,Rural: Distant,Full 4DSW,Greenwood ISD,2025,rural
+166904,1507,34,8,53,0,1,0,4,71,11,11,2024,4,E,Independent Town,32,Town: Distant,Hybrid/Modified,Rockdale ISD,2024,town
+166904,,,,,,,,,,,,2025,4,E,Independent Town,32,Town: Distant,Hybrid/Modified,Rockdale ISD,2024,town
+166907,140,39,2,59,0,0,0,0,88,5,14,2022,1,H,Rural,42,Rural: Distant,Hybrid/Modified,Buckholts ISD,2022,rural
+166907,110,41,1,58,0,0,0,0,91,9,14,2023,1,H,Rural,42,Rural: Distant,Hybrid/Modified,Buckholts ISD,2022,rural
+166907,116,37,3,60,0,0,0,0,85,12,12,2024,1,H,Rural,42,Rural: Distant,Hybrid/Modified,Buckholts ISD,2022,rural
+166907,,,,,,,,,,,,2025,1,H,Rural,42,Rural: Distant,Hybrid/Modified,Buckholts ISD,2022,rural
+167902,193,52,10,33,3,1,0,2,93,8,33,2023,5,H,Rural,43,Rural: Remote,Full 4DSW,Mullin ISD,2023,rural
+167902,211,52,17,27,0,1,0,3,98,3,37,2024,5,H,Rural,43,Rural: Remote,Full 4DSW,Mullin ISD,2023,rural
+167902,,,,,,,,,,,,2025,3,H,Rural,43,Rural: Remote,Full 4DSW,Mullin ISD,2023,rural
+168902,132,32,2,63,0,0,0,3,57,2,23,2024,1,H,Rural,42,Rural: Distant,Hybrid/Modified,Loraine ISD,2024,rural
+168902,,,,,,,,,,,,2025,1,H,Rural,42,Rural: Distant,Hybrid/Modified,Loraine ISD,2024,rural
+169901,1556,74,1,20,1,1,0,4,51,8,19,2024,4,G,Non-metropolitan Stable,33,Town: Remote,Full 4DSW,Bowie ISD,2024,town
+169901,,,,,,,,,,,,2025,4,G,Non-metropolitan Stable,33,Town: Remote,Full 4DSW,Bowie ISD,2024,town
+169902,748,65,1,30,0,1,0,3,61,15,20,2024,3,H,Rural,33,Town: Remote,Full 4DSW,Nocona ISD,2024,town
+169902,,,,,,,,,,,,2025,3,H,Rural,33,Town: Remote,Full 4DSW,Nocona ISD,2024,town
+169906,154,73,2,21,0,1,0,4,61,7,16,2023,1,H,Rural,42,Rural: Distant,Full 4DSW,Gold Burg ISD,2023,rural
+169906,155,73,2,19,0,0,0,6,57,7,19,2024,1,H,Rural,42,Rural: Distant,Full 4DSW,Gold Burg ISD,2023,rural
+169906,,,,,,,,,,,,2025,1,H,Rural,42,Rural: Distant,Full 4DSW,Gold Burg ISD,2023,rural
+169908,151,82,0,13,0,1,0,4,48,1,18,2023,1,H,Rural,42,Rural: Distant,Full 4DSW,Montague ISD,2023,rural
+169908,158,82,0,13,1,1,0,4,54,1,17,2024,1,H,Rural,42,Rural: Distant,Full 4DSW,Montague ISD,2023,rural
+169908,,,,,,,,,,,,2025,1,H,Rural,42,Rural: Distant,Full 4DSW,Montague ISD,2023,rural
+169909,147,82,0,10,0,0,0,8,59,0,14,2022,2,H,Rural,42,Rural: Distant,Full 4DSW,Prairie Valley ISD,2022,rural
+169909,128,76,0,13,0,0,0,11,63,0,16,2023,1,H,Rural,42,Rural: Distant,Full 4DSW,Prairie Valley ISD,2022,rural
+169909,127,76,0,13,0,0,0,11,48,1,17,2024,1,H,Rural,42,Rural: Distant,Full 4DSW,Prairie Valley ISD,2022,rural
+169909,,,,,,,,,,,,2025,1,H,Rural,42,Rural: Distant,Full 4DSW,Prairie Valley ISD,2022,rural
+169910,184,78,1,19,1,0,0,2,52,1,20,2024,1,H,Rural,43,Rural: Remote,Hybrid/Modified,Forestburg ISD,2024,rural
+169910,,,,,,,,,,,,2025,1,H,Rural,43,Rural: Remote,Hybrid/Modified,Forestburg ISD,2024,rural
+169911,342,86,0,10,2,0,0,3,42,0,17,2024,2,F,Non-metropolitan Fast Growing,43,Rural: Remote,Full 4DSW,SAINT JO ISD,2024,rural
+169911,,,,,,,,,,,,2025,2,F,Non-metropolitan Fast Growing,43,Rural: Remote,Full 4DSW,SAINT JO ISD,2024,rural
+172905,829,60,14,16,0,0,0,10,74,7,17,2023,3,H,Rural,42,Rural: Distant,Full 4DSW,Pewitt CISD,2023,rural
+172905,840,60,13,17,0,0,0,10,73,7,17,2024,3,H,Rural,42,Rural: Distant,Full 4DSW,Pewitt CISD,2023,rural
+172905,,,,,,,,,,,,2025,3,H,Rural,42,Rural: Distant,Full 4DSW,Pewitt CISD,2023,rural
+173901,165,70,1,27,0,0,0,2,65,0,12,2023,1,H,Rural,43,Rural: Remote,Hybrid/Modified,Motley County ISD,2023,rural
+173901,160,73,1,26,0,0,0,1,61,0,15,2024,1,H,Rural,43,Rural: Remote,Hybrid/Modified,Motley County ISD,2023,rural
+173901,,,,,,,,,,,,2025,1,H,Rural,43,Rural: Remote,Hybrid/Modified,Motley County ISD,2023,rural
+175902,,,,,,,,,,,,2025,3,G,Non-metropolitan Stable,42,Rural: Distant,Hybrid/Modified,BLOOMING GROVE ISD,2025,rural
+175905,472,54,2,42,0,0,0,3,59,20,13,2024,2,H,Rural,42,Rural: Distant,Full 4DSW,FROST ISD,2024,rural
+175905,,,,,,,,,,,,2025,2,H,Rural,42,Rural: Distant,Full 4DSW,FROST ISD,2024,rural
+175910,835,70,2,24,0,1,0,3,53,7,12,2024,2,H,Rural,42,Rural: Distant,Full 4DSW,MILDRED ISD,2024,rural
+175910,,,,,,,,,,,,2025,2,H,Rural,42,Rural: Distant,Full 4DSW,MILDRED ISD,2024,rural
+175911,1067,21,2,74,0,0,0,2,78,26,11,2024,3,G,Non-metropolitan Stable,42,Rural: Distant,Full 4DSW,RICE ISD,2024,rural
+175911,,,,,,,,,,,,2025,3,G,Non-metropolitan Stable,42,Rural: Distant,Full 4DSW,RICE ISD,2024,rural
+176901,229,68,25,6,0,0,0,2,86,0,18,2023,1,H,Rural,43,Rural: Remote,Full 4DSW,Burkeville ISD,2023,rural
+176901,247,64,30,5,1,0,0,1,85,0,23,2024,1,H,Rural,43,Rural: Remote,Full 4DSW,Burkeville ISD,2023,rural
+176901,,,,,,,,,,,,2025,1,H,Rural,43,Rural: Remote,Full 4DSW,Burkeville ISD,2023,rural
+180903,117,33,0,66,0,0,0,1,67,9,19,2024,1,H,Rural,43,Rural: Remote,Full 4DSW,Adrian ISD,2024,rural
+180903,,,,,,,,,,,,2025,1,H,Rural,43,Rural: Remote,Full 4DSW,Adrian ISD,2024,rural
+182901,215,75,0,23,0,0,0,2,54,6,6,2020,1,H,Rural,43,Rural: Remote,Full 4DSW,Gordon ISD,2020,rural
+182901,220,73,0,22,0,0,0,5,59,7,9,2021,1,H,Rural,43,Rural: Remote,Full 4DSW,Gordon ISD,2020,rural
+182901,264,70,0,27,0,0,0,3,56,11,9,2022,1,H,Rural,43,Rural: Remote,Full 4DSW,Gordon ISD,2020,rural
+182901,239,76,0,21,0,0,0,2,59,8,11,2023,1,H,Rural,43,Rural: Remote,Full 4DSW,Gordon ISD,2020,rural
+182901,232,77,0,19,0,0,0,3,52,7,12,2024,1,H,Rural,43,Rural: Remote,Full 4DSW,Gordon ISD,2020,rural
+182901,,,,,,,,,,,,2025,1,H,Rural,43,Rural: Remote,Full 4DSW,Gordon ISD,2020,rural
+182902,321,80,0,15,0,0,0,4,56,8,13,2023,1,H,Rural,43,Rural: Remote,Full 4DSW,Graford ISD,2023,rural
+182902,330,78,0,17,0,0,0,4,49,8,17,2024,1,H,Rural,43,Rural: Remote,Full 4DSW,Graford ISD,2023,rural
+182902,,,,,,,,,,,,2025,1,H,Rural,43,Rural: Remote,Full 4DSW,Graford ISD,2023,rural
+182903,3347,51,3,41,0,1,0,3,77,16,14,2023,4,E,Independent Town,32,Town: Distant,Full 4DSW,Mineral Wells ISD,2023,town
+182903,3313,51,3,41,0,1,0,3,77,17,17,2024,4,E,Independent Town,32,Town: Distant,Full 4DSW,Mineral Wells ISD,2023,town
+182903,,,,,,,,,,,,2025,2,E,Independent Town,32,Town: Distant,Full 4DSW,Mineral Wells ISD,2023,town
+182905,174,51,0,44,1,0,0,5,64,16,9,2023,1,H,Rural,43,Rural: Remote,Full 4DSW,Strawn ISD,2023,rural
+182905,165,50,0,43,1,0,0,6,69,13,11,2024,1,H,Rural,43,Rural: Remote,Full 4DSW,Strawn ISD,2023,rural
+182905,,,,,,,,,,,,2025,2,H,Rural,43,Rural: Remote,Full 4DSW,Strawn ISD,2023,rural
+182906,97,81,0,16,0,1,0,2,54,1,7,2023,1,H,Rural,42,Rural: Distant,Full 4DSW,Palo Pinto ISD,2023,rural
+182906,101,83,0,15,0,0,0,2,51,1,8,2024,1,H,Rural,42,Rural: Distant,Full 4DSW,Palo Pinto ISD,2023,rural
+182906,,,,,,,,,,,,2025,1,H,Rural,42,Rural: Distant,Full 4DSW,Palo Pinto ISD,2023,rural
+187904,788,32,24,39,0,1,0,4,69,10,10,2021,3,H,Rural,43,Rural: Remote,Full 4DSW,Corrigan-Camden ISD,2021,rural
+187904,817,30,22,42,0,1,0,5,74,9,12,2022,3,H,Rural,43,Rural: Remote,Full 4DSW,Corrigan-Camden ISD,2021,rural
+187904,835,34,18,40,0,1,0,6,69,9,14,2023,3,H,Rural,43,Rural: Remote,Full 4DSW,Corrigan-Camden ISD,2021,rural
+187904,834,37,18,39,0,1,0,5,69,10,15,2024,3,H,Rural,43,Rural: Remote,Full 4DSW,Corrigan-Camden ISD,2021,rural
+187904,,,,,,,,,,,,2025,3,H,Rural,43,Rural: Remote,Full 4DSW,Corrigan-Camden ISD,2021,rural
+187906,197,65,14,19,0,0,0,3,81,4,17,2024,2,H,Rural,42,Rural: Distant,Full 4DSW,LEGGETT ISD,2024,rural
+187906,,,,,,,,,,,,2025,2,H,Rural,42,Rural: Distant,Full 4DSW,LEGGETT ISD,2024,rural
+187910,1242,76,4,14,0,1,0,5,68,3,15,2024,2,G,Non-metropolitan Stable,32,Town: Distant,Full 4DSW,ONALASKA ISD,2024,town
+187910,,,,,,,,,,,,2025,2,G,Non-metropolitan Stable,32,Town: Distant,Full 4DSW,ONALASKA ISD,2024,town
+189901,223,7,1,91,0,1,0,0,56,20,17,2024,1,H,Rural,43,Rural: Remote,Full 4DSW,Marfa ISD,2024,rural
+189901,,,,,,,,,,,,2025,1,H,Rural,43,Rural: Remote,Full 4DSW,Marfa ISD,2024,rural
+190903,1737,73,2,19,1,1,0,4,61,9,18,2024,4,G,Non-metropolitan Stable,42,Rural: Distant,Full 4DSW,Rains ISD,2024,rural
+190903,,,,,,,,,,,,2025,4,G,Non-metropolitan Stable,42,Rural: Distant,Full 4DSW,Rains ISD,2024,rural
+193902,368,61,1,34,0,0,0,4,63,6,20,2024,1,H,Rural,43,Rural: Remote,Hybrid/Modified,LEAKEY ISD,2024,rural
+193902,,,,,,,,,,,,2025,1,H,Rural,43,Rural: Remote,Hybrid/Modified,LEAKEY ISD,2024,rural
+194902,,,,,,,,,,,,2025,1,H,Rural,43,Rural: Remote,Full 4DSW,Avery ISD,2025,rural
+194904,,,,,,,,,,,,2025,2,H,Rural,33,Town: Remote,Full 4DSW,clarksville ISD,2025,town
+194905,,,,,,,,,,,,2025,3,H,Rural,43,Rural: Remote,Full 4DSW,DETROIT ISD,2025,rural
+197902,198,81,0,15,1,0,0,4,32,2,10,2024,1,H,Rural,43,Rural: Remote,Full 4DSW,MIAMI ISD,2024,rural
+197902,,,,,,,,,,,,2025,1,H,Rural,43,Rural: Remote,Full 4DSW,MIAMI ISD,2024,rural
+198901,504,62,15,18,0,1,0,5,56,4,13,2024,3,H,Rural,43,Rural: Remote,Full 4DSW,BREMOND ISD,2024,rural
+198901,,,,,,,,,,,,2025,3,H,Rural,43,Rural: Remote,Full 4DSW,BREMOND ISD,2024,rural
+198902,147,5,66,25,0,0,1,3,90,2,16,2024,1,H,Rural,42,Rural: Distant,Full 4DSW,CALVERT ISD,2024,rural
+198902,,,,,,,,,,,,2025,1,H,Rural,42,Rural: Distant,Full 4DSW,CALVERT ISD,2024,rural
+200904,558,37,1,58,0,0,0,3,70,3,15,2023,4,H,Rural,32,Town: Distant,Hybrid/Modified,Winters ISD,2023,town
+200904,535,38,1,58,0,0,0,3,65,3,16,2024,4,H,Rural,32,Town: Distant,Hybrid/Modified,Winters ISD,2023,town
+200904,,,,,,,,,,,,2025,5,H,Rural,32,Town: Distant,Hybrid/Modified,Winters ISD,2023,town
+201903,140,33,31,29,0,0,0,7,83,18,14,2024,1,H,Rural,42,Rural: Distant,Full 4DSW,LANEVILLE ISD,2024,rural
+201903,,,,,,,,,,,,2025,1,H,Rural,42,Rural: Distant,Full 4DSW,LANEVILLE ISD,2024,rural
+201904,238,46,8,42,0,0,0,3,80,27,13,2024,3,H,Rural,42,Rural: Distant,Full 4DSW,Leveretts Chapel ISD,2024,rural
+201904,,,,,,,,,,,,2025,3,H,Rural,42,Rural: Distant,Full 4DSW,Leveretts Chapel ISD,2024,rural
+201908,534,67,11,13,0,1,1,8,70,3,17,2024,2,H,Rural,42,Rural: Distant,Full 4DSW,Overton ISD,2024,rural
+201908,,,,,,,,,,,,2025,2,H,Rural,42,Rural: Distant,Full 4DSW,Overton ISD,2024,rural
+204901,1623,64,16,13,0,0,0,6,65,1,16,2024,4,D,Other Central City Suburban,42,Rural: Distant,Full 4DSW,COLDSPRING-OAKHURST CISD,2024,rural
+204901,,,,,,,,,,,,2025,4,D,Other Central City Suburban,42,Rural: Distant,Full 4DSW,COLDSPRING-OAKHURST CISD,2024,rural
+206901,737,40,0,59,0,1,0,1,76,27,17,2024,3,H,Rural,33,Town: Remote,Full 4DSW,SAN SABA ISD,2024,town
+206901,,,,,,,,,,,,2025,3,H,Rural,33,Town: Remote,Full 4DSW,SAN SABA ISD,2024,town
+206902,130,78,0,19,1,0,0,3,63,2,19,2018,1,H,Rural,43,Rural: Remote,Full 4DSW,Richland Springs ISD,2018,rural
+206902,123,74,2,21,1,0,0,2,66,2,18,2019,1,H,Rural,43,Rural: Remote,Full 4DSW,Richland Springs ISD,2018,rural
+206902,118,74,1,22,0,0,0,3,63,1,20,2020,1,H,Rural,43,Rural: Remote,Full 4DSW,Richland Springs ISD,2018,rural
+206902,112,75,0,23,1,0,0,1,64,2,16,2021,1,H,Rural,43,Rural: Remote,Full 4DSW,Richland Springs ISD,2018,rural
+206902,120,83,0,16,1,0,0,1,49,2,18,2022,1,H,Rural,43,Rural: Remote,Full 4DSW,Richland Springs ISD,2018,rural
+206902,138,85,1,14,1,0,0,0,58,1,18,2023,1,H,Rural,43,Rural: Remote,Full 4DSW,Richland Springs ISD,2018,rural
+206902,139,78,1,18,3,0,0,0,60,2,15,2024,1,H,Rural,43,Rural: Remote,Full 4DSW,Richland Springs ISD,2018,rural
+206902,,,,,,,,,,,,2025,1,H,Rural,43,Rural: Remote,Full 4DSW,Richland Springs ISD,2018,rural
+206903,114,63,7,23,1,0,1,5,55,1,13,2018,1,H,Rural,43,Rural: Remote,Full 4DSW,Cherokee ISD,2018,rural
+206903,114,73,4,21,1,0,0,2,54,0,11,2019,1,H,Rural,43,Rural: Remote,Full 4DSW,Cherokee ISD,2018,rural
+206903,103,77,4,17,1,0,0,2,52,0,9,2020,1,H,Rural,43,Rural: Remote,Full 4DSW,Cherokee ISD,2018,rural
+206903,129,74,5,18,1,1,0,2,59,0,11,2021,1,H,Rural,43,Rural: Remote,Full 4DSW,Cherokee ISD,2018,rural
+206903,126,70,3,22,2,0,0,3,53,1,12,2022,1,H,Rural,43,Rural: Remote,Full 4DSW,Cherokee ISD,2018,rural
+206903,135,74,4,18,2,0,0,2,60,1,10,2023,1,H,Rural,43,Rural: Remote,Full 4DSW,Cherokee ISD,2018,rural
+206903,130,72,4,21,2,1,0,1,61,1,14,2024,1,H,Rural,43,Rural: Remote,Full 4DSW,Cherokee ISD,2018,rural
+206903,,,,,,,,,,,,2025,1,H,Rural,43,Rural: Remote,Full 4DSW,Cherokee ISD,2018,rural
+209902,106,85,0,12,0,0,1,2,90,0,23,2023,1,H,Rural,43,Rural: Remote,Full 4DSW,Moran ISD,2023,rural
+209902,121,82,0,14,0,0,1,3,90,0,27,2024,1,H,Rural,43,Rural: Remote,Full 4DSW,Moran ISD,2023,rural
+209902,,,,,,,,,,,,2025,1,H,Rural,43,Rural: Remote,Full 4DSW,Moran ISD,2023,rural
+210905,704,58,22,15,0,0,0,5,64,7,16,2023,1,H,Rural,43,Rural: Remote,Full 4DSW,Timpson ISD,2023,rural
+210905,717,59,22,13,0,0,0,5,71,6,17,2024,1,H,Rural,43,Rural: Remote,Full 4DSW,Timpson ISD,2023,rural
+210905,,,,,,,,,,,,2025,1,H,Rural,43,Rural: Remote,Full 4DSW,Timpson ISD,2023,rural
+215901,1389,56,1,39,1,1,0,2,71,7,16,2024,4,G,Non-metropolitan Stable,33,Town: Remote,Full 4DSW,Breckenridge ISD,2024,town
+215901,,,,,,,,,,,,2025,4,G,Non-metropolitan Stable,33,Town: Remote,Full 4DSW,Breckenridge ISD,2024,town
+219901,270,84,0,14,0,0,0,2,36,5,12,2023,2,H,Rural,42,Rural: Distant,Full 4DSW,Happy ISD,2023,rural
+219901,270,83,2,13,0,0,0,3,30,6,10,2024,2,H,Rural,42,Rural: Distant,Full 4DSW,Happy ISD,2023,rural
+219901,,,,,,,,,,,,2025,2,H,Rural,42,Rural: Distant,Full 4DSW,Happy ISD,2023,rural
+221904,1139,69,1,26,1,0,0,3,55,3,21,2023,3,D,Other Central City Suburban,42,Rural: Distant,Full 4DSW,Merkel ISD,2023,rural
+221904,1127,70,1,26,1,0,0,3,52,3,23,2024,4,D,Other Central City Suburban,42,Rural: Distant,Full 4DSW,Merkel ISD,2023,rural
+221904,,,,,,,,,,,,2025,4,D,Other Central City Suburban,42,Rural: Distant,Full 4DSW,Merkel ISD,2023,rural
+221905,146,68,2,24,0,0,0,6,71,2,21,2024,1,H,Rural,42,Rural: Distant,Full 4DSW,TRENT ISD,2024,rural
+221905,,,,,,,,,,,,2025,1,H,Rural,42,Rural: Distant,Full 4DSW,TRENT ISD,2024,rural
+223902,265,29,0,70,0,0,0,1,75,7,12,2021,1,H,Rural,42,Rural: Distant,Full 4DSW,Meadow ISD,2021,rural
+223902,270,27,0,71,0,0,0,1,70,5,10,2022,1,H,Rural,42,Rural: Distant,Full 4DSW,Meadow ISD,2021,rural
+223902,253,24,0,74,0,0,0,2,72,6,13,2023,1,H,Rural,42,Rural: Distant,Full 4DSW,Meadow ISD,2021,rural
+223902,235,25,0,73,0,0,0,2,66,4,21,2024,1,H,Rural,42,Rural: Distant,Full 4DSW,Meadow ISD,2021,rural
+223902,,,,,,,,,,,,2025,1,H,Rural,42,Rural: Distant,Full 4DSW,Meadow ISD,2021,rural
+223904,,,,,,,,,,,,2025,1,H,Rural,42,Rural: Distant,Full 4DSW,Wellman-Union CISD,2025,rural
+224901,,,,,,,,,,,,2025,1,H,Rural,43,Rural: Remote,Full 4DSW,THROCKMORTON COLLEGIATE ISD,2025,rural
+224902,153,82,0,16,0,0,0,1,54,0,11,2020,1,H,Rural,43,Rural: Remote,Full 4DSW,Woodson ISD,2020,rural
+224902,161,80,0,17,0,0,0,3,55,0,12,2021,1,H,Rural,43,Rural: Remote,Full 4DSW,Woodson ISD,2020,rural
+224902,160,83,0,16,0,0,0,1,54,0,14,2022,1,H,Rural,43,Rural: Remote,Full 4DSW,Woodson ISD,2020,rural
+224902,162,80,0,19,0,0,0,1,53,0,17,2023,1,H,Rural,43,Rural: Remote,Full 4DSW,Woodson ISD,2020,rural
+224902,176,80,1,18,1,0,0,1,61,0,19,2024,1,H,Rural,43,Rural: Remote,Full 4DSW,Woodson ISD,2020,rural
+224902,,,,,,,,,,,,2025,1,H,Rural,43,Rural: Remote,Full 4DSW,Woodson ISD,2020,rural
+228901,767,76,6,15,0,1,0,3,64,2,18,2024,2,H,Rural,43,Rural: Remote,Full 4DSW,Groveton ISD,2024,rural
+228901,,,,,,,,,,,,2025,2,H,Rural,43,Rural: Remote,Full 4DSW,Groveton ISD,2024,rural
+228903,1220,48,15,30,0,1,0,7,89,13,14,2024,3,G,Non-metropolitan Stable,41,Rural: Fringe,Hybrid/Modified,TRINITY ISD,2024,rural
+228903,,,,,,,,,,,,2025,3,G,Non-metropolitan Stable,41,Rural: Fringe,Hybrid/Modified,TRINITY ISD,2024,rural
+228905,205,86,4,8,1,1,0,1,60,0,15,2022,2,H,Rural,42,Rural: Distant,Full 4DSW,Apple Springs ISD,2022,rural
+228905,207,86,6,6,1,1,0,1,62,0,15,2023,2,H,Rural,42,Rural: Distant,Full 4DSW,Apple Springs ISD,2022,rural
+228905,207,86,6,7,1,1,0,1,65,0,15,2024,2,H,Rural,42,Rural: Distant,Full 4DSW,Apple Springs ISD,2022,rural
+228905,,,,,,,,,,,,2025,2,H,Rural,42,Rural: Distant,Full 4DSW,Apple Springs ISD,2022,rural
+229901,453,89,2,7,0,0,0,2,71,0,10,2022,2,H,Rural,42,Rural: Distant,Full 4DSW,Colmesneil ISD,2022,rural
+229901,452,89,2,7,0,0,0,3,76,0,11,2023,2,H,Rural,42,Rural: Distant,Full 4DSW,Colmesneil ISD,2022,rural
+229901,400,89,2,7,0,0,0,2,70,0,13,2024,2,H,Rural,42,Rural: Distant,Full 4DSW,Colmesneil ISD,2022,rural
+229901,,,,,,,,,,,,2025,2,H,Rural,42,Rural: Distant,Full 4DSW,Colmesneil ISD,2022,rural
+230906,1160,76,7,11,1,0,0,5,44,2,8,2024,3,D,Other Central City Suburban,42,Rural: Distant,Full 4DSW,New Diana ISD,2024,rural
+230906,,,,,,,,,,,,2025,3,D,Other Central City Suburban,42,Rural: Distant,Full 4DSW,New Diana ISD,2024,rural
+231901,495,17,2,78,1,0,0,2,58,10,15,2024,3,H,Rural,43,Rural: Remote,Full 4DSW,MCCAMEY ISD,2024,rural
+231901,,,,,,,,,,,,2025,3,H,Rural,43,Rural: Remote,Full 4DSW,MCCAMEY ISD,2024,rural
+232904,199,73,0,25,0,0,0,2,46,7,13,2024,1,H,Rural,43,Rural: Remote,Full 4DSW,Utopia ISD,2024,rural
+232904,,,,,,,,,,,,2025,1,H,Rural,43,Rural: Remote,Full 4DSW,Utopia ISD,2024,rural
+233903,200,33,1,66,0,1,0,1,49,3,10,2024,1,H,Rural,43,Rural: Remote,Full 4DSW,COMSTOCK ISD,2024,rural
+233903,,,,,,,,,,,,2025,1,H,Rural,43,Rural: Remote,Full 4DSW,COMSTOCK ISD,2024,rural
+234907,2862,55,4,36,1,1,0,4,69,17,17,2024,5,E,Independent Town,32,Town: Distant,Full 4DSW,WILLS POINT ISD,2024,town
+234907,,,,,,,,,,,,2025,5,E,Independent Town,32,Town: Distant,Full 4DSW,WILLS POINT ISD,2024,town
+235901,905,11,2,86,0,0,0,1,86,19,17,2024,4,H,Rural,42,Rural: Distant,Hybrid/Modified,BLOOMINGTON ISD,2024,rural
+235901,,,,,,,,,,,,2025,4,H,Rural,42,Rural: Distant,Hybrid/Modified,BLOOMINGTON ISD,2024,rural
+236901,1066,65,11,17,0,1,0,6,52,4,13,2024,4,G,Non-metropolitan Stable,41,Rural: Fringe,Hybrid/Modified,New Waverly ISD,2024,rural
+236901,,,,,,,,,,,,2025,4,G,Non-metropolitan Stable,41,Rural: Fringe,Hybrid/Modified,New Waverly ISD,2024,rural
+242905,119,72,3,22,0,2,0,2,61,7,10,2021,1,H,Rural,43,Rural: Remote,Full 4DSW,Kelton ISD,2021,rural
+242905,137,64,4,23,0,2,0,7,67,6,12,2022,1,H,Rural,43,Rural: Remote,Full 4DSW,Kelton ISD,2021,rural
+242905,153,70,5,18,0,3,0,5,60,4,14,2023,1,H,Rural,43,Rural: Remote,Full 4DSW,Kelton ISD,2021,rural
+242905,140,72,4,16,0,4,0,4,66,4,20,2024,1,H,Rural,43,Rural: Remote,Full 4DSW,Kelton ISD,2021,rural
+242905,,,,,,,,,,,,2025,1,H,Rural,43,Rural: Remote,Full 4DSW,Kelton ISD,2021,rural
+244905,243,62,0,28,2,2,0,6,34,1,13,2023,1,H,Rural,42,Rural: Distant,Full 4DSW,NORTHSIDE ISD,2023,rural
+244905,234,64,0,25,2,1,0,7,33,0,12,2024,1,H,Rural,42,Rural: Distant,Full 4DSW,NORTHSIDE ISD,2023,rural
+244905,,,,,,,,,,,,2025,1,H,Rural,42,Rural: Distant,Full 4DSW,NORTHSIDE ISD,2023,rural
+247903,3454,61,1,36,0,0,0,2,28,4,15,2024,4,E,Independent Town,42,Rural: Distant,Full 4DSW,La Vernia ISD,2024,rural
+247903,,,,,,,,,,,,2025,5,E,Independent Town,42,Rural: Distant,Full 4DSW,La Vernia ISD,2024,rural
+249904,547,64,0,31,1,1,0,3,57,14,15,2023,3,H,Rural,42,Rural: Distant,Hybrid/Modified,Chico ISD,2023,rural
+249904,555,61,1,32,1,0,0,4,59,15,15,2024,3,H,Rural,42,Rural: Distant,Hybrid/Modified,Chico ISD,2023,rural
+249904,,,,,,,,,,,,2025,3,H,Rural,42,Rural: Distant,Hybrid/Modified,Chico ISD,2023,rural
+250906,833,85,1,12,0,0,0,3,61,2,16,2024,2,H,Rural,42,Rural: Distant,Full 4DSW,Alba-Golden ISD,2024,rural
+250906,,,,,,,,,,,,2025,3,H,Rural,42,Rural: Distant,Full 4DSW,Alba-Golden ISD,2024,rural
+252901,2183,66,1,30,1,0,0,2,60,13,18,2024,4,G,Non-metropolitan Stable,33,Town: Remote,Hybrid/Modified,Graham ISD,2024,town
+252901,,,,,,,,,,,,2025,4,G,Non-metropolitan Stable,33,Town: Remote,Hybrid/Modified,Graham ISD,2024,town
+252902,225,80,0,19,0,0,0,2,44,3,21,2024,1,H,Rural,42,Rural: Distant,Hybrid/Modified,NEWCASTLE ISD,2024,rural
+252902,,,,,,,,,,,,2025,1,H,Rural,42,Rural: Distant,Hybrid/Modified,NEWCASTLE ISD,2024,rural
